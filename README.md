@@ -7,7 +7,7 @@
 
 🚀 **Co-Founder & Secretary — The Space Club (TSC - DSU)**  
 💡 **Co-Founder — Entrepreneurship Cell (E-Cell DSU)**  
-🏆 **Vikas Saptah Hackathon State Finalist (Top 5 Rank)**[cite: 1, 2] | **SIH 2025 Participant**[cite: 5]
+🎖️ **NCC Corporal & Cadet Leader** | 🏆 **Vikas Saptah Hackathon State Finalist (Top 5 Rank)**[cite: 1, 2] | **SIH 2025 Participant**[cite: 5]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solanki-jay-hiteshbhai-591a77374)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solankijayh.2008@gmail.com)
@@ -20,8 +20,12 @@
 
 I am a 3rd-semester B.Tech Computer Science Engineering student focused on software development, artificial intelligence, data science, and space technology. Beyond building software, I actively drive campus entrepreneurship, organize national hands-on technical workshops, and lead student innovation teams.
 
+As an **NCC Corporal**, I prioritize discipline, daily physical training, and personal fitness while actively mentoring and leading junior NCC cadets.
+
 * 🎓 **Education:** B.Tech Computer Science & Engineering (3rd Semester) at Dr. Subhash University
 * 🚀 **Leadership Roles:** Co-Founder & Secretary (The Space Club - DSU) | Co-Founder (Entrepreneurship Cell - DSU)
+* 🎖️ **Discipline & Service:** Active NCC Corporal | Drill Leader & Junior Cadet Mentor
+* 🏋️ **Personal Routine:** Daily fitness training & physical conditioning
 * 💻 **Primary Focus:** Software Development, Data Structures & Algorithms, Systems Engineering
 * 🧠 **Interests:** AI/ML, Data Science, Space Technology, Enterprise Software Architecture
 * 📚 **Currently Learning:** Advanced DSA in C++, Java OOP Concepts, and Cloud ERP Architecture
@@ -37,8 +41,8 @@ I am a 3rd-semester B.Tech Computer Science Engineering student focused on softw
 ### Core Engineering & Concepts
 `Data Structures & Algorithms` • `Object-Oriented Programming (OOP)` • `Database Management Systems (DBMS)` • `AI/ML Fundamentals` • `CubeSat/Nanosat Systems`
 
-### Leadership & Community Building
-`Startup Ecosystem & E-Cell Management` • `Workshop & Event Directing` • `Public Relations & Media Outreach` • `Team Leadership` • `Technical Documentation`
+### Leadership & Management
+`NCC Parade & Drill Leadership` • `Startup Ecosystem & E-Cell Management` • `Workshop & Event Directing` • `Public Relations & Media Outreach` • `Team Leadership`
 
 ---
 
@@ -73,15 +77,15 @@ Organized a multi-university collaborative hands-on aerospace workshop at Dr. Su
 
 ---
 
-## 🏆 Achievements & Leadership Honors
+## 🏆 Achievements & Honors
 
 ### 🥇 Leadership & Competitions
 * 🏆 **Top 5 Rank & Best Performance** – Vikas Saptah Hackathon 2025 (PDEU State Finale)[cite: 1, 2]
+* 🎖️ **NCC Corporal Rank & Leadership** – Successfully completed **CATC Camp**; lead and train junior NCC cadets.
 * 🛰️ **Organizer & Leader** – CubeSat Genesis 2026 National Workshop
 * 💡 **Participant** – Smart India Hackathon (SIH) 2025[cite: 5]
 * 🥇 **1st Rank** – Poster Presentation, Dr. Subhash University
 * 🥈 **2nd Rank** – Review Paper Writing Competition, Dr. Subhash University
-* 🎖️ **NCC Corporal** – Successfully completed **CATC (Combined Annual Training Camp)**
 
 ### 📜 Professional Certifications & Internships
 * 🎓 **Internship Certificate:** Python Programming for AI & Data Science – YBI Foundation
@@ -96,7 +100,7 @@ Organized a multi-university collaborative hands-on aerospace workshop at Dr. Su
 * **Co-Founder & Secretary** – *The Space Club (TSC - DSU)*
 * **Co-Founder** – *Entrepreneurship Cell (E-Cell DSU)*
 * **Former President** – *SciXplore Club (DSU)*
-* **Corporal** – *National Cadet Corps (NCC)*
+* **Corporal & Cadet Leader** – *National Cadet Corps (NCC)*
 
 ---
 
