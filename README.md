@@ -1,118 +1,118 @@
-# 💫 Jay Solanki (SOLANKI-JAY-HITESHBHAI)
 
 <div align="center">
 
-### 🎓 B.Tech Computer Science & Engineering Student (3rd Sem) | Space-Tech & Software Developer
-**Dr. Subhash University (DSU), Junagadh**
+# Hi, I'm Jay 👋
 
-🚀 **Co-Founder & Secretary — The Space Club (TSC - DSU)**  
-💡 **Co-Founder — Entrepreneurship Cell (E-Cell DSU)**  
-🎖️ **NCC Corporal & Cadet Leader** | 🏆 **Vikas Saptah Hackathon State Finalist (Top 5 Rank)**[cite: 1, 2] | **SIH 2025 Participant**[cite: 5]
+### B.Tech CSE (3rd Sem) @ Dr. Subhash University, Junagadh
+**Space-Tech Enthusiast · AI/ML & Software Developer · NCC Corporal**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solanki-jay-hiteshbhai-591a77374)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solankijayh.2008@gmail.com)
 
----
-
 </div>
 
-## 👨‍💻 About Me
+---
 
-I am a 3rd-semester B.Tech Computer Science Engineering student focused on software development, artificial intelligence, data science, and space technology. Beyond building software, I actively drive campus entrepreneurship, organize national hands-on technical workshops, and lead student innovation teams.
+## 🧭 Quick Facts
 
-As an **NCC Corporal**, I prioritize discipline, daily physical training, and personal fitness while actively mentoring and leading junior NCC cadets.
-
-* 🎓 **Education:** B.Tech Computer Science & Engineering (3rd Semester) at Dr. Subhash University
-* 🚀 **Leadership Roles:** Co-Founder & Secretary (The Space Club - DSU) | Co-Founder (Entrepreneurship Cell - DSU)
-* 🎖️ **Discipline & Service:** Active NCC Corporal | Drill Leader & Junior Cadet Mentor
-* 🏋️ **Personal Routine:** Daily fitness training & physical conditioning
-* 💻 **Primary Focus:** Software Development, Data Structures & Algorithms, Systems Engineering
-* 🧠 **Interests:** AI/ML, Data Science, Space Technology, Enterprise Software Architecture
-* 📚 **Currently Learning:** Advanced DSA in C++, Java OOP Concepts, and Cloud ERP Architecture
-* 🤝 **Open for:** Technical initiatives, open-source projects, and startup collaborations
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE, 3rd Semester — Dr. Subhash University (DSU), Junagadh |
+| 🚀 **Leadership** | Co-Founder & Secretary, The Space Club (TSC-DSU) · Co-Founder, E-Cell DSU |
+| 🎖️ **NCC** | Corporal & Cadet Leader — CATC Camp graduate, drills & mentors junior cadets |
+| 💼 **Current Internship** | AR/VR Intern @ TELUS Digital |
+| 🧠 **Focus Areas** | Software Development · AI/ML · Data Science · Space Technology |
 
 ---
 
-## 🛠️ Technical Skills
+## 🔭 What I'm Working On Right Now
 
-### Programming Languages & Frameworks
-`C++` • `Python` • `Java (Learning)` • `SQL`
-
-### Core Engineering & Concepts
-`Data Structures & Algorithms` • `Object-Oriented Programming (OOP)` • `Database Management Systems (DBMS)` • `AI/ML Fundamentals` • `CubeSat/Nanosat Systems`
-
-### Leadership & Management
-`NCC Parade & Drill Leadership` • `Startup Ecosystem & E-Cell Management` • `Workshop & Event Directing` • `Public Relations & Media Outreach` • `Team Leadership`
+- 🌱 **Hackathon (active):** Building a solution for *"Early detection and management of crop diseases and pest infestations"* — the current problem statement my team is tackling.
+- 🕶️ **Internship:** Working on AR/VR projects as part of my internship at **TELUS Digital**.
+- 🛰️ Supporting space-tech outreach through **The Space Club (TSC-DSU)**.
 
 ---
 
-## 🌌 Key Leadership & Collaborative Initiatives
+## 🛠️ Tech Stack
 
-### 🛰️ CubeSat Genesis 2026 – Nanosat Exploration Workshop
-> **Role:** Co-Founder & Secretary, The Space Club (TSC - DSU)  
-> **Collaborators:** The Space Association (TSA - BVM) & Hexstar Universe  
+**Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-Organized a multi-university collaborative hands-on aerospace workshop at Dr. Subhash University.
-* **Impact:** Delivered practical aerospace instruction to 50+ student engineers on nanosatellite kits, sensor handling, and real-time telemetry processing via Hexstar Universe dashboards.
-* **Media Recognition:** Highlighted across top regional news publications, including *Gujarat Samachar*, *Kesari*, and *Divya Bhaskar*.
+**Frameworks & Tools** (used in past hackathon builds)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/-Hyperledger%20Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
+
+**Core Concepts**
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `AI/ML Fundamentals` · `CubeSat/Nanosat Systems`
+
+---
+
+## 🌌 Leadership & Initiatives
+
+### 🛰️ CubeSat Genesis 2026 — Nanosat Exploration Workshop
+**Role:** Co-Founder & Secretary, The Space Club (TSC-DSU) · with The Space Association (TSA-BVM) & Hexstar Universe
+- Delivered hands-on nanosatellite, sensor, and telemetry training to 50+ student engineers.
+- Covered by *Gujarat Samachar*, *Kesari*, and *Divya Bhaskar*.
 
 ### 💡 Entrepreneurship Cell (E-Cell DSU)
-> **Role:** Co-Founder  
-* Co-established the university's startup cell to foster student entrepreneurship, innovation, and industry networking.
+**Role:** Co-Founder
+- Co-established DSU's startup cell to drive student entrepreneurship and industry networking.
 
 ---
 
-## ♻️ Featured Projects & Hackathons
+## 🏆 Featured Projects
 
-### 🏆 Smart India Hackathon (SIH) 2025
-* **Problem Statement:** ERP-based Integrated Student Management System (`SIH25103`)[cite: 5]
-* **Team:** InnoMinds (Team ID: 50443)[cite: 5]
-* **Category:** Software / Smart Automation[cite: 5]
-* **Overview:** Designed a cloud-based ERP solution integrating centralized student data, automated attendance, fee processing, and AI-driven performance analytics[cite: 5].
+### MilletChain — SIH 2025 (Team InnoMinds)
+> Integrated Digital Marketplace for the Millets Value Chain
+> **Problem Statement:** SIH25265 · **Theme:** Agriculture, FoodTech & Rural Development · **Team ID:** 50443
 
-### 🏆 Vikas Saptah Hackathon 2025
-* **Achievement:** **Top 5 Rank** & **Best Performance Recognition** at PDEU State Finale[cite: 1, 2]
-* **Problem Statement ID:** `PS00081` (NTPC)
-* **Overview:** Developed an eco-friendly process for recovering high-grade metals (**Gold**, **Silver**, **Copper**, **Palladium**) from industrial e-waste.
+- Blockchain-based traceability and secure transactions across the millet supply chain.
+- AI modules for real-time pricing, image-based quality certification, and demand forecasting.
+- Multilingual, offline-friendly (SMS/USSD) design for low-connectivity rural areas.
+- **Stack:** Python, JavaScript, React.js, React Native, Django, Hyperledger Fabric, TensorFlow, Firebase, AWS.
 
----
-
-## 🏆 Achievements & Honors
-
-### 🥇 Leadership & Competitions
-* 🏆 **Top 5 Rank & Best Performance** – Vikas Saptah Hackathon 2025 (PDEU State Finale)[cite: 1, 2]
-* 🎖️ **NCC Corporal Rank & Leadership** – Successfully completed **CATC Camp**; lead and train junior NCC cadets.
-* 🛰️ **Organizer & Leader** – CubeSat Genesis 2026 National Workshop
-* 💡 **Participant** – Smart India Hackathon (SIH) 2025[cite: 5]
-* 🥇 **1st Rank** – Poster Presentation, Dr. Subhash University
-* 🥈 **2nd Rank** – Review Paper Writing Competition, Dr. Subhash University
-
-### 📜 Professional Certifications & Internships
-* 🎓 **Internship Certificate:** Python Programming for AI & Data Science – YBI Foundation
-* 📜 **Certificate of Appreciation:** CubeSat Genesis Workshop 2026
-* 📜 **Fundamentals of Artificial Intelligence & Machine Learning**
-* 📜 **NIPAM** – Intellectual Property Rights (IPR) Awareness Certificate
+### Vikas Saptah Hackathon 2025 — Top 5, PDEU State Finale
+> Eco-friendly recovery of high-grade metals (Gold, Silver, Copper, Palladium) from industrial e-waste
+> **Problem Statement:** PS00081 (NTPC)
 
 ---
 
-## 🏛️ Campus Leadership & Roles
+## 🏅 Achievements & Certifications
 
-* **Co-Founder & Secretary** – *The Space Club (TSC - DSU)*
-* **Co-Founder** – *Entrepreneurship Cell (E-Cell DSU)*
-* **Former President** – *SciXplore Club (DSU)*
-* **Corporal & Cadet Leader** – *National Cadet Corps (NCC)*
+- 🏆 Top 5 Rank & Best Performance — Vikas Saptah Hackathon 2025 (PDEU State Finale)
+- 🎖️ NCC Corporal — completed CATC Camp; leads and trains junior cadets
+- 🛰️ Organizer & Leader — CubeSat Genesis 2026 National Workshop
+- 🥇 1st Rank — Poster Presentation, DSU
+- 🥈 2nd Rank — Review Paper Writing Competition, DSU
+- 📜 Python Programming for AI & Data Science — YBI Foundation (Internship Certificate)
+- 📜 Fundamentals of Artificial Intelligence & Machine Learning
+- 📜 NIPAM — Intellectual Property Rights (IPR) Awareness Certificate
 
 ---
 
-## 🤝 Connect With Me
+## 🏛️ Roles at a Glance
 
-* 📧 **Email:** [solankijayh.2008@gmail.com](mailto:solankijayh.2008@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/solanki-jay-hiteshbhai-591a77374](https://www.linkedin.com/in/solanki-jay-hiteshbhai-591a77374)
+- **Co-Founder & Secretary** — The Space Club (TSC-DSU)
+- **Co-Founder** — Entrepreneurship Cell (E-Cell DSU)
+- **Former President** — SciXplore Club (DSU)
+- **Corporal & Cadet Leader** — National Cadet Corps (NCC)
+- **AR/VR Intern** — TELUS Digital
 
 ---
 
 <div align="center">
 
-⭐ *Thank you for visiting my GitHub profile!*
+## 🤝 Let's Connect
+
+📧 [solankijayh.2008@gmail.com](mailto:solankijayh.2008@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/solanki-jay-hiteshbhai-591a77374)
+
+⭐ *Thanks for stopping by!*
 
 </div>
