@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Jay 👋
@@ -77,6 +76,7 @@
 - AI modules for real-time pricing, image-based quality certification, and demand forecasting.
 - Multilingual, offline-friendly (SMS/USSD) design for low-connectivity rural areas.
 - **Stack:** Python, JavaScript, React.js, React Native, Django, Hyperledger Fabric, TensorFlow, Firebase, AWS.
+- **Repository:** [Cropguard](https://github.com/Zjzazy/Cropguard)
 
 ### Vikas Saptah Hackathon 2025 — Top 5, PDEU State Finale
 > Eco-friendly recovery of high-grade metals (Gold, Silver, Copper, Palladium) from industrial e-waste
@@ -107,12 +107,31 @@
 
 ---
 
-<div align="center">
+## 📂 My Repositories & Projects
+
+| Repository | Description | Tech Stack | License |
+|---|---|---|---|
+| [Cropguard](https://github.com/Zjzazy/Cropguard) | MilletChain - Blockchain + AI for Agriculture | Python, React, Django, Hyperledger Fabric | MIT |
+| [ERP-SYSTEM](https://github.com/Zjzazy/ERP-SYSTEM) | Enterprise Resource Planning System | JavaScript, HTML, CSS | MIT |
+
+---
 
 ## 🤝 Let's Connect
 
 📧 [solankijayh.2008@gmail.com](mailto:solankijayh.2008@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/solanki-jay-hiteshbhai-591a77374)
 
-⭐ *Thanks for stopping by!*
+---
+
+## 📜 License & Attribution
+
+This portfolio README is licensed under the **[MIT License](LICENSE)**. Feel free to fork, modify, and use this template for your own profile!
+
+**Attribution:** If you use this template, a link back to [my profile](https://github.com/Zjzazy) is appreciated but not required.
+
+---
+
+<div align="center">
+
+⭐ *Thanks for stopping by! Connect with me on [LinkedIn](https://www.linkedin.com/in/solanki-jay-hiteshbhai-591a77374) or drop me an [email](mailto:solankijayh.2008@gmail.com).*
 
 </div>
